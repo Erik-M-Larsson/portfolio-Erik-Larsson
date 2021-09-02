@@ -10,6 +10,7 @@ Har provat på att programmera i större eller mindre omfattning i följande spr
 - Matlab
 - Java
 - Excel VBA
+- JavaScript
 - Polyscope (Universal Robots)
 
 Nu lär jag mig **Python**!
