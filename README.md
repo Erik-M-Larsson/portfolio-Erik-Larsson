@@ -6,7 +6,6 @@ Har provat på att programmera i större eller mindre omfattning i följande spr
 - Pascal
 - C++
 - Assembler
-- Java
 - Matlab
 - Java
 - Excel VBA
